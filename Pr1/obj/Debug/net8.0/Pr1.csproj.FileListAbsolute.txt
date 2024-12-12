@@ -1,0 +1,14 @@
+C:\Users\Yousef\Downloads\IntroduccioProgramacioYEA\C#\Pr1\bin\Debug\net8.0\Pr1.exe
+C:\Users\Yousef\Downloads\IntroduccioProgramacioYEA\C#\Pr1\bin\Debug\net8.0\Pr1.deps.json
+C:\Users\Yousef\Downloads\IntroduccioProgramacioYEA\C#\Pr1\bin\Debug\net8.0\Pr1.runtimeconfig.json
+C:\Users\Yousef\Downloads\IntroduccioProgramacioYEA\C#\Pr1\bin\Debug\net8.0\Pr1.dll
+C:\Users\Yousef\Downloads\IntroduccioProgramacioYEA\C#\Pr1\bin\Debug\net8.0\Pr1.pdb
+C:\Users\Yousef\Downloads\IntroduccioProgramacioYEA\C#\Pr1\obj\Debug\net8.0\Pr1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Yousef\Downloads\IntroduccioProgramacioYEA\C#\Pr1\obj\Debug\net8.0\Pr1.AssemblyInfoInputs.cache
+C:\Users\Yousef\Downloads\IntroduccioProgramacioYEA\C#\Pr1\obj\Debug\net8.0\Pr1.AssemblyInfo.cs
+C:\Users\Yousef\Downloads\IntroduccioProgramacioYEA\C#\Pr1\obj\Debug\net8.0\Pr1.csproj.CoreCompileInputs.cache
+C:\Users\Yousef\Downloads\IntroduccioProgramacioYEA\C#\Pr1\obj\Debug\net8.0\Pr1.dll
+C:\Users\Yousef\Downloads\IntroduccioProgramacioYEA\C#\Pr1\obj\Debug\net8.0\refint\Pr1.dll
+C:\Users\Yousef\Downloads\IntroduccioProgramacioYEA\C#\Pr1\obj\Debug\net8.0\Pr1.pdb
+C:\Users\Yousef\Downloads\IntroduccioProgramacioYEA\C#\Pr1\obj\Debug\net8.0\Pr1.genruntimeconfig.cache
+C:\Users\Yousef\Downloads\IntroduccioProgramacioYEA\C#\Pr1\obj\Debug\net8.0\ref\Pr1.dll
