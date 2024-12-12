@@ -1,1 +1,1 @@
-# Practiques d'en YEA de C#
+# Pràctiques d'en YEA de C#
